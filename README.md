@@ -1,5 +1,5 @@
 # OOE-Forcasting
-This repository contains the work done on Mitsui Morocco's production line data to analyze and forecast the daily Operational Equipment Effectiveness (OOE). We leveraged statistical models and deep learning techniques to predict OOE, aiming to enhance decision-making and improve operational efficiency.
+This repository contains the work done on Mitsui Morocco's production line data to analyze and forecast the daily Overall operations effectiveness (OOE). We leveraged statistical models and deep learning techniques to predict OOE, aiming to enhance decision-making and improve operational efficiency.
 #  Methodology
 ### 1- Exploratory Data Analysis (EDA):
 - Analyzed trends, correlations, and patterns in production data.
